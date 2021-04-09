@@ -1,7 +1,7 @@
 ---
 ---
 
-# Coziness
+
 
 What comes to mind when I think of this word? 
 - reading in the same room or space as other people, or doing some other quiet activities in parallel

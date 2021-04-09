@@ -1,7 +1,7 @@
 ---
 ---
 
-# Silence
+
 
 The following seem to be aspects of silence for me:
 - I often feel an initial resistance to entering into it

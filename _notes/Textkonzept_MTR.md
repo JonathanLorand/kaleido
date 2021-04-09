@@ -43,7 +43,7 @@ The following are tentative/possible chapter titles/contents:
 	* About authenticity, honesty, acceptance, non-judgemental observation. 
 * [[Human State Space]]
 	* About diversity of states. 
-* [[Singular and Plural (Re)Searchers]]
+* [[Singular and Plural Re_Searchers]]
 	* Related to [Ref. 6.], among other things.
 * [[Co-constitution]]
 	* About things that are constituted collaboratively and interactively.  
@@ -83,9 +83,9 @@ The following are tentative/possible chapter titles/contents:
 * [[Complexity]]
 * [[Cognitive Artifacts]]
 	* go check out Eduardo's node on this
-* [[Design - Intentions]]
+* [[Design_Intentions]]
 	* Related here is [Ref: 13.]
-* [[Design - Cycles]]
+* [[Design_Cycles]]
 * [[You Are Here]]
 	* this "design principle" from "design your life" also maybe is a nice motto related to "not jumping the first gate" from Yoram
 * [[Space]]

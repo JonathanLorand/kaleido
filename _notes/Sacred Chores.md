@@ -1,7 +1,7 @@
 ---
 ---
 
-# Sacred Chores
+
 
 There is a certain way of seeing in which nearly any activity can be holy and rich. 
 
