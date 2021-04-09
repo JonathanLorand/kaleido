@@ -7,11 +7,9 @@ permalink: /
 
 # _kaleido_
 
-A non-linear collection of personal notes.
+A non-linear collection of haphazard, personal notes.
 
-[[Abstraction]]
-[[Applied Utopia]]
-[[Art]]
+
 
 
 <style>
