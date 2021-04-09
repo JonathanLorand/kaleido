@@ -1,6 +1,9 @@
 ---
 ---
 
+A list of the notes in this collection. 
+
+
 [[Abstraction]]
 [[Applied Utopia]]
 [[Art]]
