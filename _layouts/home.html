@@ -5,16 +5,21 @@
     <!-- <nav>{% include nav.html %}</nav> -->
     <div class="wrapper">
       <main>{{ content }}</main>
+      <side style="font-size: 0.9em">
+        {% include notes_graph.html %}
+      </side>
+
+      {% include link-previews.html wrapperQuerySelector="content" %}
 
     </div>
 
-    {% include link-previews.html wrapperQuerySelector="content" %}
+
 
     <hr>
 
-    {% include notes_graph.html %}
 
-    <hr>
     <footer>{% include footer.html %}</footer>
+
+
   </body>
 </html>

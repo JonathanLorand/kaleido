@@ -1,13 +1,14 @@
 ---
 ---
 
-A list of the notes in this collection. 
+A list of the notes in this collection.
 
 
 [[Abstraction]]
 [[Applied Utopia]]
 [[Art]]
 [[Being Bodies]]
+[[Bibliography]]
 [[Co-constitution]]
 [[Coziness]]
 [[Curiosity]]
@@ -19,6 +20,7 @@ A list of the notes in this collection.
 [[Flow]]
 [[Generalized Thinking]]
 [[Human State Space]]
+[[Introduction]]
 [[Notation]]
 [[Paradigm Patchworking]]
 [[Personal Realism]]
