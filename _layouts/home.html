@@ -4,18 +4,20 @@
   <body>
     <!-- <nav>{% include nav.html %}</nav> -->
     <div class="wrapper">
-      <main>{{ content }}</main>
-      <side style="font-size: 0.9em">
-        {% include notes_graph.html %}
-      </side>
+      <main>
+        {{ content }}
+        <hr>
+
+      </main>
+
+
+      {% include notes_graph.html %}
 
       {% include link-previews.html wrapperQuerySelector="content" %}
 
     </div>
 
 
-
-    <hr>
 
 
     <footer>{% include footer.html %}</footer>

@@ -14,6 +14,7 @@ layout: default
   <div id="notes-entry-container">
     <content>
       {{ content }}
+      <hr>
     </content>
 
     <side style="font-size: 0.9em">
@@ -35,11 +36,11 @@ layout: default
         </p>
       </div>
       {% endif %}
+
     </side>
+{% include notes_graph.html %}
   </div>
+
 </article>
 
 <hr>
-
-
-{% include notes_graph.html %}
