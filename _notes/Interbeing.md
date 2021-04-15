@@ -1,7 +1,5 @@
 ---
-title: Co-constitution
 ---
-
 
 
 
@@ -14,7 +12,7 @@ title: Co-constitution
 
 #### Notes
 
-
+reference Charles Eisenstein
 
 
 #### Links

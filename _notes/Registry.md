@@ -1,13 +1,14 @@
 ---
 ---
 
-A list of the notes in this collection.
+A list of all the notes in this collection.
 
-
+[[Anarchy]]
 [[Abstraction]]
 [[Applied Utopia]]
 [[Art]]
 [[Being Bodies]]
+[[Betraying Utopia]]
 [[Bibliography]]
 [[Co-constitution]]
 [[Coziness]]
@@ -22,6 +23,7 @@ A list of the notes in this collection.
 [[Human State Space]]
 [[Introduction]]
 [[Notation]]
+[[Mathematics and Poetry]]
 [[Paradigm Patchworking]]
 [[Personal Realism]]
 [[Play]]

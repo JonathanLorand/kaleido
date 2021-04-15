@@ -12,10 +12,15 @@ layout: default
   </div>
 
   <div id="notes-entry-container">
+    <style>
+    body {
+      background-image: url('/assets/light_green.png');
+    }
+    </style>
     <content>
       {{ content }}
       <hr>
-      {% include notes_graph.html %}
+      <!-- {% include notes_graph.html %} -->
     </content>
 
     <side style="font-size: 0.9em">
@@ -43,5 +48,3 @@ layout: default
   </div>
 
 </article>
-
-<hr>

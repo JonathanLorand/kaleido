@@ -2,7 +2,7 @@
 ---
 
 
-
+An entry point to ask other's if they're open to trying something out. 
 
 
 
