@@ -1,16 +1,22 @@
 ---
 ---
 
-A list of all the notes in this collection.
+A list of all the notes in kaleido.
 
-[[Anarchy]]
+
 [[Abstraction]]
+[[Acidity]]
+[[Anarchy]]
 [[Applied Utopia]]
 [[Art]]
 [[Being Bodies]]
 [[Betraying Utopia]]
 [[Bibliography]]
 [[Co-constitution]]
+[[Cognitive Artifacts]]
+[[Communication]]
+[[Complexity]]
+[[Constructive Optimism]]
 [[Coziness]]
 [[Curiosity]]
 [[Design_Cycles]]
@@ -19,14 +25,20 @@ A list of all the notes in this collection.
 [[Dissonance]]
 [[Embeddings, Enmeshings]]
 [[Flow]]
+[[Fresh]]
 [[Generalized Thinking]]
+[[Hard to describe]]
 [[Human State Space]]
+[[Interbeing]]
 [[Introduction]]
-[[Notation]]
+[[Mathematics]]
 [[Mathematics and Poetry]]
+[[New]]
+[[Notation]]
 [[Paradigm Patchworking]]
 [[Personal Realism]]
 [[Play]]
+[[Poethical]]
 [[Queer]]
 [[Quietude]]
 [[Reify]]
