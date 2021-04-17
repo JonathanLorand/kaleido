@@ -32,7 +32,7 @@ A list of all the notes in kaleido.
 [[Interbeing]]
 [[Introduction]]
 [[Mathematics]]
-[[Mathematics and Poetry]]
+[[Illumination]]
 [[New]]
 [[Notation]]
 [[Paradigm Patchworking]]

@@ -9,7 +9,7 @@
 
 [[Mathematics]]
 [[Abstraction]]
-[[Mathematics and Poetry]]
+[[Illumination]]
 
 #### Notes
 

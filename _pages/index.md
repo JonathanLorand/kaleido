@@ -11,6 +11,7 @@ A non-linear collection of haphazard, personal notes.
 
 
 [[Introduction]]
+<br>
 
 [[Abstraction]]  // // // //
 [[Anarchy]] // // // //
@@ -36,9 +37,9 @@ A non-linear collection of haphazard, personal notes.
 [[Generalized Thinking]]  // // // //
 [[Hard to describe]] // // // //
 [[Human State Space]]  // // // //
+[[Illumination]] // // // //
 [[Interbeing]] // // // //
 [[Mathematics]] // // // //
-[[Mathematics and Poetry]] // // // //
 [[New]] // // // //
 [[Notation]]  // // // //
 [[Paradigm Patchworking]]  // // // //
@@ -57,9 +58,14 @@ A non-linear collection of haphazard, personal notes.
 [[Thinking Through]]  //  // // //
 [[Universal Flowering]] // // // //
 [[You Are Here]]
+<br>
 
-[[Bibliography]] //  // [[Registry]]
+[[Constellation 1]] // // // // [[Constellation 2]] // // // // [[Constellation 3]] // // // // [[Constellation 4]]
+<br>
 
+[[Bibliography]] // // // // [[Registry]]
+
+---
 
 <style>
   .wrapper {

@@ -1,14 +1,16 @@
 ---
 ---
 
+What is mathematics? Eugenia Cheng says: 
 
+>Mathematics is the study of anything that obeys the rules of logic, using the rules of logic.
 
 
 
 #### Related nodes
 
 [[Abstraction]]
-[[Mathematics and Poetry]]
+[[Illumination]]
 
 
 #### Notes
@@ -59,7 +61,6 @@ Excerpt From: Eugenia Cheng. “How to Bake Pi: An Edible Exploration of the Mat
 ---
 
 I think quite a bit of chapter 8, "What mathematics is", in "How to Bake Pi" is also quite rich / illuminating / helpful. Maybe include some parts from there?  
-
 
 
 
