@@ -8,7 +8,8 @@ $color-primary: hsl(0, 0%, 10%);
 $color-text: hsl(0%, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
-$color-box-background: mix($color-primary, white, 4%);
+// $color-box-background: mix($color-primary, white, 4%);
+$color-box-background: #f2e6ff;
 $border-radius: 4px;
 /* $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol; */
@@ -24,6 +25,7 @@ body {
   color: $color-text;
   font-size: 1rem;
   max-width: 63em;
+  background-image: url('/assets/background_color.png');
 
   @media (min-width: 820px) {
     font-size: 1.0rem;
@@ -44,18 +46,21 @@ footer {
 }
 
 img {
-  max-width: 100%;
+  max-width: 70%;
+  height: auto;
   display: block;
   margin: 0 auto;
   max-height: 75vh;
   border-radius: $border-radius;
+  border: 90px solid white;
+  background: $color-box-background;
 }
 
 blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: $color-box-background;
+  background: #f2e6ff;
   border-radius: $border-radius;
 
   p {
@@ -129,14 +134,14 @@ nav {
 }
 
 .backlink-box {
-  background: $color-box-background;
+  background: #ffffcc;
   padding: 1em;
   border-radius: $border-radius;
 }
 
 code {
-  background: #f5f5f5;
-  padding: 0.1em 0.2em;
+  background: #ffffcc;
+  padding: 0.4em 0.3em;
   border-radius: 4px;
 }
 

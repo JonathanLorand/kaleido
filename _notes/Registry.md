@@ -49,4 +49,5 @@ A list of all the notes in kaleido.
 [[Symbolic Construction]]
 [[Thinking Anonymously]]
 [[Thinking Through]]
+[[Universal Flowering]]
 [[You Are Here]]
