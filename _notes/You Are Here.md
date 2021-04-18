@@ -9,14 +9,22 @@ Often enough, it seems I have a certain relunctance to look and ask myself about
 
 #### Related nodes
 
-
+[[Applied Utopia]]
+[[Being Bodies]]
+[[Betraying Utopia]]
+[[Design]]
+[[Flow]]
+[[Human State Space]]
+[[Quietude]]
+[[Sacred Chores]]
+[[Silence]]
 
 
 #### Notes
 
-Reefence: "Desing your life"
+Reference: "Design your life"
 
-[[Don't jump the first gate]]
+"Don't jump the first gate"
 
 Seeing what you have. And don't have. 
 Using what you have. And don't have. 
