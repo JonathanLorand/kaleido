@@ -83,9 +83,9 @@ The following are tentative/possible chapter titles/contents:
 * [[Complexity]]
 * [[Cognitive Artifacts]]
 	* go check out Eduardo's node on this
-* [[Design_Intentions]]
+* [[Design]]
 	* Related here is [Ref: 13.]
-* [[Design_Cycles]]
+* [[Cycles]]
 * [[You Are Here]]
 	* this "design principle" from "design your life" also maybe is a nice motto related to "not jumping the first gate" from Yoram
 * [[Space]]

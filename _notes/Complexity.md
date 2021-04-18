@@ -30,7 +30,7 @@ The fact that the terms *complicated* and *complex* are only *relative* to a con
 [[Interbeing]]
 [[Embeddings, Enmeshings]]
 [[Human State Space]]
-[[Design_Intentions]]
+[[Design]]
 [[Paradigm Patchworking]]
 [[Symbolic Construction]]
 [[Co-constitution]]

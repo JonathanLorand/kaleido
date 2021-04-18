@@ -46,6 +46,7 @@ It's also fun to think about the interactions between these modes of thinking, a
 
 [[Being Bodies]]
 [[Co-constitution]]
+[[Cognitive Artifacts]]
 [[Communication]]
 [[Complexity]]
 [[Difference]]
