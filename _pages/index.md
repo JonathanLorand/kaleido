@@ -7,10 +7,10 @@ permalink: /
 
 # _kaleido_
 
-A haphazard collection of inter-linked, personal notes.
+A haphazard collection of interlinked, personal notes.
 
 
-[[Introduction]]
+[[Note to the reader]]
 <br>
 
 [[Abstraction]]  // // // //
