@@ -63,7 +63,6 @@ A non-linear collection of haphazard, personal notes.
 [[Constellation 1]] // // // // [[Constellation 2]] // // // // [[Constellation 3]] // // // // [[Constellation 4]]
 <br>
 
-[[Bibliography]] // // // // [[Registry]]
 
 ---
 

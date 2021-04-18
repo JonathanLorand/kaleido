@@ -1,8 +1,9 @@
 ---
 ---
 
-A list of texts that are mentioned in this kaleido collection. 
+One day this note might become a list of texts that are mentioned in this kaleido. 
 
+Or perhaps it may never. 
 
 
 
