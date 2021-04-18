@@ -7,7 +7,7 @@ permalink: /
 
 # _kaleido_
 
-A non-linear collection of haphazard, personal notes.
+A haphazard collection of inter-linked, personal notes.
 
 
 [[Introduction]]

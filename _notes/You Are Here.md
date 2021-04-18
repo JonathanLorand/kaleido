@@ -4,7 +4,7 @@
 
 Start with where you are. How are you feeling in this very moment?
 
-Often enough, it seems I have a certain relunctance to look and ask myself about "where I am". Maybe it feels like if I *were* to look, then I should do it in an open, frank, self-honest way. And that might be scary, or unexpected, or lead to me feeling obliged to take subsequent actions. Who knows where it could lead. So maybe sometimes it feels easier not even to start the action of looking in the first place. 
+Often enough, it seems I have a certain relunctance to look and ask myself about "where I am". Maybe it feels as if *were* I to look, then I should do it in an open, frank, self-honest way. And that might be scary, or unexpected, or lead to me feeling obliged to take subsequent actions. Who knows where it could lead. So maybe sometimes it feels easier not even to start the action of looking in the first place. 
 
 
 #### Related nodes
