@@ -1,9 +1,8 @@
 ---
 ---
 
-So, this is about... 
-
-
+So, this is about... "being real" (as today's slang might put it). 
+And the intention, or rather *desire*, to be real with oneself and others. 
 
 
 #### Related nodes

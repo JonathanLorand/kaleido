@@ -2,7 +2,6 @@
 ---
 
 
-
 There is a certain way of seeing in which nearly any activity can be holy and rich. 
 
 There seems to be a component of love, and also a component of distance: seeing the whole scene from an outside perspective. Seeing oneself in the scene. Seeing the chore in the scene. Seeing the broader landscape of life in the scene. And seeing also the "abysses of time and meaning and mystery" at the fringes of this landscape. 

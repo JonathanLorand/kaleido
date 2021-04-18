@@ -1,7 +1,7 @@
 ---
 ---
 
-Get in the flow, dammit!
+I wanna flow, dammit!
 
 ***
 

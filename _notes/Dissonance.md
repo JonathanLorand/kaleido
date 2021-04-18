@@ -1,7 +1,7 @@
 ---
 ---
 
-Jazz. Bittersweet. Acidity. Friction. Asynchronicity. Miscommunication. Conflict. Incoherence. Mismatch. Irritation. Tension. Pain. Beauty. 
+ Acidity. Friction. Asynchronicity. Miscommunication. Conflict. Incoherence. Mismatch. Irritation. Tension. Pain. Bittersweet. Scintillating. Beauty. 
 
 The opposite of resonance? A flavor of resonance?
  
