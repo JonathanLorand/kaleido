@@ -27,8 +27,8 @@ A non-linear collection of haphazard, personal notes.
 [[Complexity]]  // // // //
 [[Coziness]]  // // // //
 [[Curiosity]]  // // // //
-[[Design_Cycles]]  // // // //
-[[Design_Intentions]]  // // // //
+[[Cycles]]  // // // //
+[[Design]]  // // // //
 [[Difference]]  // // // //
 [[Dissonance]]  // // // //
 [[Embeddings, Enmeshings]]  // // // //

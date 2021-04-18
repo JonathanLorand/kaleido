@@ -1,7 +1,7 @@
 ---
 ---
 
-A word for the state of being of any entity that incoporates the belief that everything in existence is intimately connected and enmeshed together in myriad, mysterious ways. 
+A word for the state of being, of any entity, that incoporates the belief that everything in existence is intimately connected and enmeshed together in myriad, mysterious ways. 
 
 
 
