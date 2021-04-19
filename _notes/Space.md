@@ -12,7 +12,7 @@ Here is list of some flavors of "space" that come to my mind.
 	- In one sense, I can think of sensory spaces in terms of the mathematical conception described above: for example, "aural space" might mean the space (the "set") of all possible aural experiences I (or anyone?) I can imagine. It is indeed not only a set, since there is a (or several?) inutuitive notions of distance/closeness in this "space". It is parametrized by such "dimensions" as amplitude/loudness, pitch, timbre and types of tones, etc.  
 	- The "mathematical" notion of space though feels to me like a "bird's eye" or "outside" view of a space: one has an overview of the totality of possibilities in the space, or one is at least somehow conceptually embracing the full space. The word "sensory" however also conjures for me the image of navigation a landscape *using* my senses, with a focus on what is experienceable, what is within reach; the space of what I currently can consciously percieve. This sense of "sensory space" has a phenomenological flavor, and it has an aspect which is also internal to me. Here there seems to be overlap with "space 6" below. 
 - space 2: physical and geometric
-	- This is similar to "space 1" in that ...
+	- ...
 - space 3: interpersonal
 - space 4: societal, cultural
 - space 5: scene, techne, topical
