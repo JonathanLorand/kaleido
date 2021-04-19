@@ -13,6 +13,19 @@ Well, for one, if someone else makes an observation about my behavior, then, eve
 
 #### Related nodes
 
+[[Art]]
+[[Co-constitution]]
+[[Cognitive Artifacts]]
+[[Constructive Optimism]]
+[[Design]]
+[[Generalized Thinking]]
+[[Illumination]]
+[[Notation]]
+[[Personal Realism]]
+[[Poethical]]
+[[Singular and Plural Re_Searchers]]
+[[Space]]
+[[Symbolic Construction]]
 
 
 

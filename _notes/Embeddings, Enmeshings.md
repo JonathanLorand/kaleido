@@ -43,7 +43,15 @@ Building beds.
 
 #### Related nodes
 
-
+[[Art]]
+[[Betraying Utopia]]
+[[Co-constitution]]
+[[Difference]]
+[[Generalized Thinking]]
+[[Interbeing]]
+[[Paradigm Patchworking]]
+[[Singular and Plural Re_Searchers]]
+[[Space]]
 
 
 #### Notes

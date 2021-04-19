@@ -19,6 +19,8 @@ Refer to the Mersh text ...
 [[Poethical]]
 [[Symbolic Construction]]
 [[Queer]]
+[[Paradigm Patchworking]]
+[[Play]]
 
 
 

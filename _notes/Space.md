@@ -25,7 +25,9 @@ Here is list of some flavors of "space" that come to my mind.
 [[Abstraction]]
 [[Art]]
 [[Being Bodies]]
+[[Human State Space]]
 [[Interbeing]]
+[[Mathematics]]
 [[Poethical]]
 [[Symbolic Construction]]
 

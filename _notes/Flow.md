@@ -1,7 +1,7 @@
 ---
 ---
 
-I wanna flow, dammit!
+I wanna be in the flow, dammit. Right now.
 
 ***
 
@@ -11,7 +11,16 @@ I wanna flow, dammit!
 
 #### Related nodes
 
-
+[[Art]]
+[[Complexity]]
+[[Curiosity]]
+[[Fresh]]
+[[Hard to describe]]
+[[Human State Space]]
+[[Interbeing]]
+[[Play]]
+[[Singular and Plural Re_Searchers]]
+[[Space]]
 
 
 #### Notes

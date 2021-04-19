@@ -11,6 +11,7 @@ As an anectdote, I distinctly remember being in this attitude of quietude on a d
 
 #### Connected nodes
 
+[[Art]]
 [[Silence]]
 [[Human State Space]]
 [[Sacred Chores]]

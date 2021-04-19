@@ -10,6 +10,11 @@ What curiositities *do* I feel, anyway?
 
 #### Related nodes
 
+[[Applied Utopia]]
+[[Art]]
+[[Cognitive Artifacts]]
+[[Communication]]
+[[]]
 
 #### Notes
 

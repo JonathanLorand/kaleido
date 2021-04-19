@@ -15,8 +15,18 @@ Excerpt from “How to Bake Pi: An Edible Exploration of the Mathematics of Math
 
 #### Related nodes
 
-[[Reify]]
 [[Abstraction]]
+[[Applied Utopia]]
+[[Art]]
+[[Co-constitution]]
+[[Cognitive Artifacts]]
+[[Generalized Thinking]]
+[[Human State Space]]
+[[Interbeing]]
+[[Poethical]]
+[[Quietude]]
+[[Silence]]
+[[Singular and Plural Re_Searchers]]
 
 
 #### Notes

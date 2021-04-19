@@ -27,8 +27,17 @@ Yeah.
 
 #### Related nodes
 
-
-
+[[Anarchy]]
+[[Applied Utopia]]
+[[Art]]
+[[Co-constitution]]
+[[Curiosity]]
+[[Design]]
+[[Flow]]
+[[Fresh]]
+[[Generalized Thinking]]
+[[Singular and Plural Re_Searchers]]
+[[Space]]
 
 #### Notes
 

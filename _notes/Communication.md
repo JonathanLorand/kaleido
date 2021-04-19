@@ -11,6 +11,25 @@ Also: what are spatial and temporal aspects of the medium? For example, when and
 
 #### Related nodes
 
+[[Art]]
+[[Applied Utopia]]
+[[Co-constitution]]
+[[Cognitive Artifacts]]
+[[Design]]
+[[Embeddings, Enmeshings]]
+[[Generalized Thinking]]
+[[Human State Space]]
+[[Illumination]]
+[[Interbeing]]
+[[Notation]]
+[[Paradigm Patchworking]]
+[[Personal Realism]]
+[[Play]]
+[[Poethical]]
+[[Silence]]
+[[Space]]
+[[Symbolic Construction]]
+[[You Are Here]]
 
 
 

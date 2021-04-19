@@ -2,7 +2,7 @@
 title: Co-constitution
 ---
 
-Two interacting entities, A and B, through their interaction, may generate a third entity C - contingent on the interaction and emergent from it. We say that A and B *co-constituted* C. 
+Two interacting entities, A and B, through their interaction, may generate a third entity C - contingent on the interaction and emergent from it. We say in this case that A and B *co-constitute* C. 
 
 Here "entities" has an ontological flavor. In some situations, where A and B are people, and C is an action of relating that is happening between them, it seems common that C is given an ontological weighting or status that is different from A and B. It seems an interesting perspective arises when comparing these ontological framings... what happens when we place A, B and C on an equal footing? 
 

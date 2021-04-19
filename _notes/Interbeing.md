@@ -9,6 +9,8 @@ A word for the state of being, of any entity, that incoporates the belief that e
 
 [[Co-constitution]]
 [[Complexity]]
+[[Generalized Thinking]]
+[[Embeddings, Enmeshings]]
 [[Human State Space]]
 [[Hard to describe]]
 

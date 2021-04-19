@@ -20,6 +20,9 @@ I think such ecstatic poetry is a good point of reference to orient here. But it
 [[Space]]
 [[Human State Space]]
 [[Being Bodies]]
+[[Poethical]]
+[[Interbeing]]
+[[Embeddings, Enmeshings]]
 
 #### Notes
 

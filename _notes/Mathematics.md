@@ -10,7 +10,15 @@ What is mathematics? Eugenia Cheng says:
 #### Related nodes
 
 [[Abstraction]]
+[[Art]]
+[[Category Theory]]
+[[Cognitive Artifacts]]
+[[Generalized Thinking]]
 [[Illumination]]
+[[Reify]]
+[[Singular and Plural Re_Searchers]]
+[[Space]]
+[[Symbolic Construction]]
 
 
 #### Notes

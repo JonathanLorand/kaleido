@@ -44,12 +44,14 @@ Here an excerpt from the essay "Silence", by Maurice Maeterlinck, from which the
 
 
 #### Connected nodes
+
 [[Quietude]]
 [[Sacred Chores]]
 [[Human State Space]]
 [[Coziness]]
 [[Being Bodies]]
 [[Space]]
+[[Poethical]]
 
 
 #### Notes

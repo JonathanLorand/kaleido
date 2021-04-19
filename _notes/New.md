@@ -9,9 +9,17 @@ What does the new do for you?
 
 
 
-
 #### Related nodes
 
+[[Art]]
+[[Applied Utopia]]
+[[Co-constitution]]
+[[Design]]
+[[Fresh]]
+[[Hard to describe]]
+[[Play]]
+[[Reify]]
+[[Symbolic Construction]]
 
 
 
