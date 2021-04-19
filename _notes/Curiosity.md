@@ -14,7 +14,15 @@ What curiositities *do* I feel, anyway?
 [[Art]]
 [[Cognitive Artifacts]]
 [[Communication]]
-[[]]
+[[Difference]]
+[[Flow]]
+[[Fresh]]
+[[Hard to describe]]
+[[Human State Space]]
+[[Interbeing]]
+[[Play]]
+[[Singular and Plural Re_Searchers]]
+
 
 #### Notes
 

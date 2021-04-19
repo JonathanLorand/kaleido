@@ -9,9 +9,11 @@ Sent to me from my friend M.W.
 
 #### Related nodes
 
-[[Queer]]
 [[Art]]
+[[Difference]]
+[[Dissonance]]
 [[Play]]
+[[Queer]]
 [[You Are Here]]
 
 

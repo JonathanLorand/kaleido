@@ -10,9 +10,13 @@ A branch of mathematics known for its abstractness and as a sort of synthesizing
 
 #### Related nodes
 
+[[Art]]
+[[Co-constitution]]
+[[Cognitive Artifacts]]
 [[Mathematics]]
 [[Abstraction]]
 [[Illumination]]
+[[Symbolic Construction]]
 
 #### Notes
 

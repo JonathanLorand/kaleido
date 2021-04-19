@@ -18,8 +18,17 @@ I imagine that this 'circularly co-dependent' situation is related to the term "
 
 #### Related nodes
 
+[[Applied Utopia]]
+[[Art]]
+[[Betraying Utopia]]
+[[Cognitive Artifacts]]
+[[Communication]]
+[[Complexity]]
+[[Generalized Thinking]]
+[[Interbeing]]
+[[Play]]
 [[Reify]]
-
+[[Singular and Plural Re_Searchers]]
 
 
 #### Notes
