@@ -4,7 +4,7 @@ layout: default
 
 
 Apologies: these notes are mainly written for me.  
-I'm note sure how intelligeable or interesting they might be for you. Perhaps a little bit in one way or another. 
+I'm note sure how intelligeable or interesting they might be for you. Hopefully a little bit in one way or another. 
 
 They may grow/change/shift over time. 
 

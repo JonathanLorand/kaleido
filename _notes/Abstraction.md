@@ -5,7 +5,7 @@
 
 <img src="/assets/struttura-segni.jpg"/>[^1]
 
-[^1]: "Stuttura Segni", by Attilio Marcolli.
+[^1]: "Stuttura Segni", by Attilio Marcolli. Taken from the text ["A drifter of dadaist persuasion"](http://www.its.caltech.edu/~matilde/MarcolliArtMath.pdf)  by Matilde Marcolli.  
 
 *** 
 
@@ -49,3 +49,6 @@ The mathematical method (as opposed to the more talked[…]”
 Excerpt From: Eugenia Cheng. “How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics.” 
 
 #### Links
+
+
+Related: this artwork, inspired by the one above: https://www.einsteigenbitte.eu/hexatopia

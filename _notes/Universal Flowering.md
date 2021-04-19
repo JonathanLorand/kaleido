@@ -1,9 +1,8 @@
 ---
 ---
 
->
-><img src="/assets/Pavel_Filonov_universal_flowering.jpg"/>
->
+
+<img src="/assets/Pavel_Filonov_universal_flowering.jpg"/>
 
 
 

@@ -14,9 +14,16 @@ Many of us sitting together. Eating. Reading. Being still.
 
 #### Related nodes
 
+
+[[Applied Utopia]]
+[[Art]]
+[[Human State Space]]
+[[Hard to describe]]
+[[Interbeing]]
 [[Quietude]]
 [[Sacred Chores]]
 [[Silence]]
+[[Space]]
 [[Coziness]]
 [[Queer]]
 
