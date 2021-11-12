@@ -1,7 +1,7 @@
 ---
 ---
 
-Thinking can be thought of broadly. 
+Let's consider "thinking" in a very broad sense. 
 
 What modes of "thinking" come to mind that go beyond the narrower senses of this term?
 
