@@ -4,7 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-
+<br>
 # _kaleido_
 
 A haphazard collection of interlinked, personal notes.  
@@ -118,10 +118,9 @@ A haphazard collection of interlinked, personal notes.
 [[Poethical]],
 [[Queer]],
 [[Singular and Plural Re_Searchers]]}
-<br>
+<br><br>
+<br><br>
 
-
----
 
 <style>
   .wrapper {
