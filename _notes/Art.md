@@ -55,4 +55,12 @@ Art as a form of language(s) for communicating experience
 
 The exploration/generation distinction, or "duality", seems tightly analogous with the debate about whether mathematical entities are discovered or invented. 
 
+***
+
+This short lecture on "the creative act" got me initially thinking about the separation of roles between artist and audience in a work of art. 
+- https://www.youtube.com/watch?v=KhYdZBgA8Ic
+
+Another influence was looking at an exhibition about art in the anthropological museum of the University of Zurich, which focused on an evolutionary perspective on art, beginnning with animals and prehistoric human art... there art was viewed through a lense of communication. 
+
+
 #### Links

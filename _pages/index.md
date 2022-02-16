@@ -63,7 +63,8 @@ A haphazard collection of interlinked, personal notes.
 <br>
 
 #### _Some larger constellations_
-[[Constellation 1]]:
+[[Constellation 1]]:  
+
 {[[Co-constitution]],
 [[Complexity]],
 [[Difference]],
@@ -73,7 +74,10 @@ A haphazard collection of interlinked, personal notes.
 [[Space]],
 [[Symbolic Construction]]}
 
-[[Constellation 2]]:
+<br>
+
+[[Constellation 2]]:  
+
 {[[Being Bodies]],
 [[Co-constitution]],
 [[Coziness]],
@@ -88,7 +92,10 @@ A haphazard collection of interlinked, personal notes.
 [[Space]],
 [[You Are Here]]}
 
-[[Constellation 3]]:
+<br>  
+
+[[Constellation 3]]:  
+
 {[[Abstraction]],
 [[Category Theory]],
 [[Cognitive Artifacts]],
@@ -102,9 +109,12 @@ A haphazard collection of interlinked, personal notes.
 [[Singular and Plural Re_Searchers]],
 [[Space]],
 [[Symbolic Construction]],
-[[Thinking Through]]}
+[[Thinking Through]]}  
 
-[[Constellation 4]]:
+<br>
+
+[[Constellation 4]]:  
+
 {[[Acidity]],
 [[Anarchy]],
 [[Applied Utopia]],
