@@ -3,7 +3,7 @@
 
 ***
 
-<img src="/assets/struttura-segni.jpg"/>[^1]
+<img src="app://local/Users/jlorand/Documents/GitHub/kaleido/assets/struttura-segni.jpg"/>[^1]
 
 [^1]: "Stuttura Segni", by Attilio Marcolli. Taken from the text ["A drifter of dadaist persuasion"](http://www.its.caltech.edu/~matilde/MarcolliArtMath.pdf)  by Matilde Marcolli.  
 
