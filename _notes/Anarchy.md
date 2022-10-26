@@ -5,6 +5,10 @@
       
 <img src="/assets/anarchism_quote.jpg"/>
 
+![[assets/anarchism_quote.jpg]]
+
+
+
 Sent to me from my friend M.W.
 
 #### Related nodes
