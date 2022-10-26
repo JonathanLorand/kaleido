@@ -1,4 +1,5 @@
 ---
+title: Direct - indirect
 ---
 
 My friend M. W. said that if there was a BBQ event whose explicit advertised purpose was for people to make new friends, then we probably wouldn't go. But if there was a BBQ hosted by a friend, he might go there with the hopes of making some new friends. 
