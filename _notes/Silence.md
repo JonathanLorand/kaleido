@@ -5,7 +5,7 @@
 
 ***
 	
-<img src="/assets/excerpt-temple-of-silence.jpg"/>[^1]
+<img src="app://local/Users/jlorand/Documents/GitHub/kaleido/assets/excerpt-temple-of-silence.jpg"/>[^1]
 
 [^1]: Excerpt from "The temple of silence", by Herbert Crowley. 
 

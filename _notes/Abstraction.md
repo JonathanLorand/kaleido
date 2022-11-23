@@ -77,6 +77,12 @@ Another abstract concept that we’re quite used to is shapes. What is a square?
 
 Excerpt From: Eugenia Cheng. “How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics.” 
 
+*** 
+
+There is a paper on abstraction that Julian Rohrhuber sent me; I should read it!
+He said it's related to category theory and the french leftist philo dude who's name i'm forgetting and him retracting a major philosophical stance of his. 
+
+
 #### Links
 
 
