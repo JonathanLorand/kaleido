@@ -5,9 +5,10 @@ id: home
 permalink: /
 ---
 <br>
-# _kaleido_
 
-A haphazard collection of interlinked, personal notes.  
+
+a garden of texts, notes, and links... to be grown and tended. 
+an ecosystem of thought movements and impressions. 
 <br>
 
 [[Note to the reader]]
