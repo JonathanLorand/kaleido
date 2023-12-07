@@ -6,6 +6,8 @@ permalink: /
 ---
 <br>
 
+<br>
+
 
 a garden of texts, notes, and links... to be grown and tended. <br>
 a small ecosystem of thought-movements and impressions. 
@@ -14,58 +16,27 @@ a small ecosystem of thought-movements and impressions.
 <br>
 <br>
 
-[[Note to the reader]]
-<br>
 <br>
 
-#### _Singleton nodes_
-[[Abstraction]]  // // // //
-[[Anarchy]] // // // //
-[[Acidity]] // // // //
-[[Applied Utopia]]   // // // //
-[[Art]]    // // // //
-[[Being Bodies]]  // // // //
-[[Betraying Utopia]]  // // // //
-[[Co-constitution]]  // // // //
-[[Cognitive Artifacts]] // // // //
-[[Communication]] // // // //
-[[Constructive Optimism]] // // // //
-[[Complexity]]  // // // //
-[[Coziness]]  // // // //
-[[Curiosity]]  // // // //
-[[Cycles]]  // // // //
-[[Design]]  // // // //
-[[Difference]]  // // // //
-[[Dissonance]]  // // // //
-[[Embeddings, Enmeshings]]  // // // //
-[[Flow]]  // // // //
-[[Fresh]] // // // //
-[[Generalized Thinking]]  // // // //
-[[Hard to describe]] // // // //
-[[Human State Space]]  // // // //
-[[Illumination]] // // // //
-[[Interbeing]] // // // //
-[[Mathematics]] // // // //
-[[New]] // // // //
-[[Notation]]  // // // //
-[[Paradigm Patchworking]]  // // // //
-[[Personal Realism]]  // // // //
-[[Play]]  // // // //
-[[Poethical]]  // // // //
-[[Queer]]  //  // // //
-[[Quietude]]  //  // // //
-[[Reify]]  //  // // //
-[[Sacred Chores]]  //  // // //
-[[Silence]]  //  // // //
-[[Singular and Plural Re_Searchers]]  //  // // //
-[[Space]]  //  // // //
-[[Symbolic Construction]]  //  // // //
-[[Thinking Anonymously]]  //  // // //
-[[Thinking Through]]  //  // // //
-[[You Are Here]]
 <br>
-<br>
-![[Abstraction]]
+### entrance
+
+
+
+### herbs
+
+[[attention and time]]
+[[catastrophies]]
+[[manifold]]
+[[]]
+
+### movements
+
+[[ontological dynamics]]
+
+### situations
+
+[[emotion, dreaming]]
 
 
 <br>

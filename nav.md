@@ -1,0 +1,4 @@
+
+
+[[ontological dynamics]]
+[[manifold]]
