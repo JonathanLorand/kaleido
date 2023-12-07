@@ -63,74 +63,7 @@ an ecosystem of thought movements and impressions.
 <br>
 <br>
 
-#### _Some larger constellations_
-[[Constellation 1]]:  
-
-{[[Co-constitution]],
-[[Complexity]],
-[[Difference]],
-[[Embeddings, Enmeshings]],
-[[Interbeing]],
-[[Singular and Plural Re_Searchers]],
-[[Space]],
-[[Symbolic Construction]]}
-
 <br>
-
-[[Constellation 2]]:  
-
-{[[Being Bodies]],
-[[Co-constitution]],
-[[Coziness]],
-[[Curiosity]],
-[[Flow]],
-[[Fresh]],
-[[Interbeing]],
-[[Play]],
-[[Quietude]],
-[[Sacred Chores]],
-[[Silence]],
-[[Space]],
-[[You Are Here]]}
-
-<br>  
-
-[[Constellation 3]]:  
-
-{[[Abstraction]],
-[[Category Theory]],
-[[Cognitive Artifacts]],
-[[Communication]],
-[[Complexity]],
-[[Generalized Thinking]],
-[[Mathematics]],
-[[Notation]],
-[[Paradigm Patchworking]],
-[[Reify]],
-[[Singular and Plural Re_Searchers]],
-[[Space]],
-[[Symbolic Construction]],
-[[Thinking Through]]}  
-
-<br>
-
-[[Constellation 4]]:  
-
-{[[Acidity]],
-[[Anarchy]],
-[[Applied Utopia]],
-[[Art]],
-[[Betraying Utopia]],
-[[Difference]],
-[[Dissonance]],
-[[Fresh]],
-[[New]],
-[[Play]],
-[[Poethical]],
-[[Queer]],
-[[Singular and Plural Re_Searchers]]}
-<br><br>
-<br><br>
 
 
 <style>
