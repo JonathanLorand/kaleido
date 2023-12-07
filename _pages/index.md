@@ -7,7 +7,7 @@ permalink: /
 <br>
 
 
-a garden of texts, notes, and links... to be grown and tended. 
+a garden of texts, notes, and links... to be grown and tended. <br>
 an ecosystem of thought movements and impressions. 
 <br>
 
@@ -62,6 +62,8 @@ an ecosystem of thought movements and impressions.
 [[You Are Here]]
 <br>
 <br>
+![[Abstraction]]
+
 
 <br>
 
