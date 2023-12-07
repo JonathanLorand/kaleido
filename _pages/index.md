@@ -9,6 +9,9 @@ permalink: /
 
 a garden of texts, notes, and links... to be grown and tended. <br>
 a small ecosystem of thought-movements and impressions. 
+
+
+<br>
 <br>
 
 [[Note to the reader]]
